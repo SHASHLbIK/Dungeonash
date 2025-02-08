@@ -1,0 +1,2 @@
+C:\нужно\bbb\bbb\obj\Debug\bbb.csproj.AssemblyReference.cache
+C:\нужно\bbb\bbb\obj\Debug\bbb.csproj.CoreCompileInputs.cache
